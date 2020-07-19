@@ -6,5 +6,5 @@ Completed under the guidence of Duke university tutors of Java Specialization co
 <br>My designed site:<br>
 *requires PHP <br>
 Screenshots : <br>
-<a href="images/screenshot_1.png">
-<a href="images/screenshot_2.png">
+<img src="images/screenshot_1.jpg">
+<img src="images/screenshot_2.jpg">
