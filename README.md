@@ -3,7 +3,7 @@ it's a Movie recommender that takes input ratings of random movies of different 
 Completed under the guidence of Duke university tutors of Java Specialization course capstone project on coursera.<br>
 <br>Official capstone project hosted on :<br>
 #Link https://www.dukelearntoprogram.com//capstone/recommender.php?id=w5Zie9VfIyB2xz<br>
-<br>My designed site:
+<br>My designed site:<br>
 *requires PHP <br>
 Screenshots : <br>
 <a href="screenshot_1.png">
