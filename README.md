@@ -5,5 +5,5 @@ Official capstone project hosted on : [#Link](https://www.dukelearntoprogram.com
 My designed site: \s\s
 *requires PHP \s\s
 Screenshots : \s\s
-![preview1]("images/screenshot_1.jpg")
-![preview2]("images/screenshot_2.jpg")
+![preview1]("/images/screenshot_1.jpg")
+![preview2]("/images/screenshot_2.jpg")
